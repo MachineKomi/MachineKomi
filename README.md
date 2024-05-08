@@ -1,31 +1,5 @@
 # Hello, I'm Jason Jackson! ⚪⚫🐙
 
-#      A  B  C  D  E  F  G  H  J  K  L  M  N  O  P  Q  R  S  T 
-#     ---------------------------------------------------------
-# 19 | x  .  .  .  .  o  o  o  x  .  x  .  o  x  x  .  .  .  . | 十九
-# 18 | .  x  o  .  .  o  x  o  x  x  x  .  o  x  .  x  .  .  . | 十八
-# 17 | x  o  o  .  .  o  x  x  .  x  o  o  o  o  x  x  .  .  . | 十七
-# 16 | x  x  o  o  o  o  x  .  x  o  o  x  .  .  o  x  x  x  x | 十六
-# 15 | .  .  x  x  x  o  x  x  o  o  x  o  o  x  o  x  o  o  x | 十五
-# 14 | .  x  x  .  .  o  o  x  x  o  x  x  o  x  o  o  o  .  o | 十四
-# 13 | .  .  .  x  .  o  .  o  o  o  o  x  .  x  x  o  .  o  . | 十三
-# 12 | x  x  o  x  x  o  .  o  .  x  o  x  x  x  o  o  .  .  o | 十二
-# 11 | .  x  x  o  o  .  o  o  x  .  x  x  o  o  .  .  .  .  . | 十一
-# 10 | x  o  o  o  .  o  .  .  o  x  x  o  .  o  .  •  o  o  . | 十
-# 9  | .  x  x  o  .  o  o  o  o  x  o  o  o  o  o  o  x  o  o | 九
-# 8  | x  x  o  o  o  x  x  x  o  x  x  o  o  x  o  x  x  x  x | 八
-# 7  | x  x  x  x  x  x  o  o  o  x  x  o  x  x  x  .  x  o  o | 七
-# 6  | .  x  o  o  o  o  .  .  o  o  x  x  o  .  x  .  .  x  o | 六
-# 5  | x  x  o  .  .  o  .  .  .  .  o  x  x  x  x  .  x  o  o | 五
-# 4  | o  o  .  o  .  .  o  .  .  •  o  x  .  .  o  x  x  o  . | 四
-# 3  | .  .  o  o  o  .  o  o  o  o  o  o  x  x  .  x  .  x  . | 三
-# 2  | .  .  .  o  x  o  x  x  x  o  x  x  .  x  .  .  .  .  . | 二
-# 1  | .  .  .  .  .  o  .  x  .  x  x  x  x  .  .  .  .  .  . | 一
-#     ---------------------------------------------------------
-#      A  B  C  D  E  F  G  H  J  K  L  M  N  O  P  Q  R  S  T 
-
-# Hello, I'm Jason Jackson! ⚪⚫🐙
-
 ### 🧑‍💻 About Me
 I specialize in AI/ML with a focus on data integration and automation within the energy sector. Beyond my professional work, I design JRPGs and visual novels, drawing on my love for retro gaming and narrative-driven experiences. I also dedicate time to mastering the game of Go/Baduk/Weiqi, exploring both traditional pro matches and proverbs, as well as AI matches and insights.
 
@@ -61,6 +35,4 @@ On my [Medium blog](https://medium.com/@JJackson3D), I share regular insights in
 
 #### NB - the board position above is Lee Sedol (B) vs AlphaGo (W) Game 4 of 5
 
-•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 "Maybe mankind's purpose is not to worship God, but rather to create Him 🤖" - Frank Herbert
-•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
